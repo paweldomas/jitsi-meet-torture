@@ -361,6 +361,9 @@ public class ConferenceFixture
         URL += "&config.debug=true";
         URL += "&config.disableAEC=true";
         URL += "&config.disableNS=true";
+        URL += "&config.disableAP=true";
+        URL += "&config.disableAGC=true";
+        URL += "&config.disableHPF=true";
         URL += "&config.callStatsID=false";
         URL += "&config.alwaysVisibleToolbar=true";
         URL += "&config.p2p.enabled=false";
